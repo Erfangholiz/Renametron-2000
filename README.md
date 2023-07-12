@@ -12,4 +12,4 @@ Other built-in safety features include an entire if statement dedicated to makin
 
 
 
-Just for the record, this is satire
+Just for the record, I'm being satirical.
