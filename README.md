@@ -8,3 +8,8 @@ This bleeding edge piece of software ingenuity uses state-of-the-art Python modu
 Now you might find yourself wondering "What if I accidentally run this directly in one of my drives? It sounds like it could easily corrupt every single file on that drive when I just wanted to rename the ones that were directly inside it", and to that I say, don't worry, I've got you covered, this program has a built-in safety protocol that only lets you execute it if it receives a parent directory address that's at least three folders deep inside a drive, that way You can rest easy knowing not every single one of your installed programs will stop working as soon as you run this code.
 
 Other built-in safety features include an entire if statement dedicated to making sure that the target pattern that the user inputs doesn't include any regular expression metacharacters (except for . which is relatively safe to use) to prevent unexpected results and even if it does include REGEX it will only be executed after the user has been made aware of the potential dangers that await them.
+
+
+
+
+Just for the record, this is satire
